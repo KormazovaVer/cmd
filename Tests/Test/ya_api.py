@@ -1,7 +1,7 @@
 from pip._vendor import requests
 
 
-TOKEN_YADISK = 'AQAAAAAF9aPrAADLW6wP2UWaoUnzt0uOSpPqZzA'
+TOKEN_YADISK = 'token'
 mkdir_url = "https://cloud-api.yandex.net/v1/disk/resources"
 
 def create_folder(path: str):
